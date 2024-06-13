@@ -1,3 +1,5 @@
+// Algoritmo A*
+
 #include <vector>
 #include <iostream>
 #include <cmath>
